@@ -1,4 +1,4 @@
 # HTTPS-SSL-Demo-Android-
-Smple app that uses HTTPS or SSL to connect to a website
+A simple android application that uses HTTPS or SSL to connect to a website
 
-Created for the course Network Programming and Security (TNM031) at Linkopings University
+This project was made by Christoffer Engelbrektsson and Adam Tellia in the course TNM031, Network Programming and Security at Linköpings University. 
